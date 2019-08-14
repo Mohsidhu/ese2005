@@ -4,7 +4,7 @@ course work on architecture of embedded systems
 using namespace std;
 int main()
 {
-  cout<<"Welcome";
+  cout<<"Welcome evry1";
   return 0;
 
 }
