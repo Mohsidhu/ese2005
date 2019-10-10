@@ -5,7 +5,7 @@ ESE 2005 course work on architecture of embedded systems
 using namespace std;
 int main()
 {
-  cout<<"Welcome every1";
+  cout<<"Welcome everyone ";
   return 0;
 
 }
