@@ -6,7 +6,7 @@
 using namespace std;
 int main()
 {
-  cout<<"Welcome Every1! ";
+  cout<<"Welcome Everyone! ";
   return 0;
 
 }
